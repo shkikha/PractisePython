@@ -2,3 +2,5 @@
 
 def new():
     pass
+
+new()
